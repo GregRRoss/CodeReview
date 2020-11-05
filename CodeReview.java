@@ -89,7 +89,7 @@ public class CodeReview{
     // Output to file
     // HEADER
  
-    out.printf("```"); //Markdown mark for code to prevent md default formatting
+    out.printf("``` \n"); //Markdown mark for code to prevent md default formatting
     out.printf("%15s %20s %37s %20s \n\n", " ", "____________________", "       Code Review Defect List       ", "____________________");      
     out.printf("Reviewer: REVIEWER NAME \t\t\t GH Repo: https://github.com/amehlhase316/Aachen-2\n\n");   
     // ID  Location  Problem Description Problem
