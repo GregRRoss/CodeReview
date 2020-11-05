@@ -15,7 +15,7 @@ To run:
 Generates printf format md file for code reviews
 
 Takes a text file with input like:
-
+```
 File1.java
 1
 Missing the file header banner
@@ -46,3 +46,4 @@ get30Beans() algorithm is broken
 FD
 MJ
 
+```
