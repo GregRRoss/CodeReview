@@ -1,0 +1,6 @@
+# Class files
+.class
+.gradle
+
+#Build
+build/

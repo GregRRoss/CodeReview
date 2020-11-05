@@ -1,0 +1,29 @@
+File1.java
+1
+Missing the file header banner
+CG1
+LOW
+
+BadClass.java
+9
+Missing Class banner
+CG2
+LOW
+
+OddClass.java
+24
+Missing Class Constructor Banner 
+CG3
+LOW
+
+OddClass.java
+40
+Missing Method Banner
+CG3
+LOW
+
+BeanTalk.java
+122
+get30Beans() algorithm is broken
+FD
+MJ
