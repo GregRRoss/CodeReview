@@ -8,7 +8,7 @@ To run:
 
 2) java CodeReview fileName
 
->- ex: jave CodeReview sampleCodeReview
+>- ex: java CodeReview sampleCodeReview
 
 3) Output file will be sampleCodeReview.md
 
